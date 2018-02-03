@@ -19,7 +19,7 @@
     header {
         width: 960px;
         padding: 20px;
-        margin: 25px;
+        margin: 10px 25px;
         color: #777777;
         background: #ebebeb;
     }
@@ -27,7 +27,7 @@
     nav {
         width: 960px;
         background-color: #ebebeb;
-        margin: 25px;
+        margin: 10px 25px;
         padding: 20px;
         color: #777777;
     }
@@ -43,7 +43,7 @@
         color: #777777;
         height:  285px;
         padding: 28px;
-        margin: 5px 25px;
+        margin: 0 25px;
     }
 
     article {
@@ -75,13 +75,13 @@
     }
     
     aside { 
-        width: 445px;
+        width: 440px;
         float: left;
         background-color: #ebebeb;
         color: #777777;
         height:  285px;
         padding: 28px;
-        margin: 0 -60px 0 0;
+        margin: 0 -50px 10px 0;
         
     }
 
