@@ -5,6 +5,7 @@
   <br>
   <img src="https://github.com/Southerngirl13/HW-Wireframe/blob/master/wireframe-layout.png" width="60%">
 </h1>
+
 ### Overview
 
 In this assignment, we built a web design skeleton using HTML/CSS. Your completed work should look just like the image below:
