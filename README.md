@@ -8,7 +8,7 @@
 
 ### Overview
 
-In this assignment, we built a web design skeleton using HTML/CSS. Your completed work should look just like the image below:
+In this assignment, we built a web design skeleton using HTML/CSS. The completed work must look just like the image provided to us.
 
 
 ### Instructions
